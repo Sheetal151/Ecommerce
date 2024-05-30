@@ -76,4 +76,4 @@ Mongoose: MongoDB object modeling tool.
 MongoDB: NoSQL database for storing application data.
 Nodemon: Utility for automatic server restarts during development.
 Contributing
-Feel free to contribute to the project by submitting issues or pull requests. Please follow the project's coding style and guidelines.
+Feel free to contribute to the project by submitting issues or pull requests. Please follow the project's coding style and guidelines..
